@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "cb5fa30885b43658",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6dab5b9e04e7f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31d769d37c26c65c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69a8b63071ec5a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc788486f82f365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8b4dab5ffbe3ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "90435896bb32e51a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f658d7d789ae44f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210.5
+  },
+  "right": {
+    "id": "5db393e0d4f26efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "084a00cbb6983872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e148e309e7b12a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14a0104c7df19f48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "525db9d99c6d0d7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6373d3477e5056fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "31d769d37c26c65c",
+  "lastOpenFiles": [
+    "2. Models/Linear Regression Model.md",
+    "2. Models/Training Models.md",
+    "1. The basics/Machine Learn Models.md",
+    "1. The basics/Machine Learning VS Human Learning.md",
+    "1. The basics/Introduction to Machine Learning.md",
+    "attachments",
+    "Untitled.md",
+    "2. Models",
+    "Linear Regression Mode.md",
+    "1. The basics",
+    "Untitled.canvas"
+  ]
+}
