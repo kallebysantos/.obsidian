@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c6dab5b9e04e7f8c",
+        "id": "cc9a6015f8749b23",
         "type": "tabs",
         "children": [
           {
-            "id": "31d769d37c26c65c",
+            "id": "54f6ece98c0daa5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Training concepts/Adapters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f51f0a5d3cf5edcf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2900eea975654ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Training concepts/Fine-Tuning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Training concepts/Adapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Training concepts/Adapters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Training concepts/Adapters.md"
+              }
             }
           }
         ]
@@ -138,15 +164,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31d769d37c26c65c",
+  "active": "54f6ece98c0daa5e",
   "lastOpenFiles": [
-    "2. Models/Linear Regression Model.md",
-    "2. Models/Training Models.md",
-    "1. The basics/Machine Learn Models.md",
-    "1. The basics/Machine Learning VS Human Learning.md",
+    "3. Training concepts/Fine-Tuning.md",
+    "3. Training concepts/Adapters.md",
+    "3. Training concepts/Parameters.md",
     "1. The basics/Introduction to Machine Learning.md",
-    "attachments",
+    "5. Open Source Projects/Introducing LLaMA.md",
     "Untitled.md",
+    "().md",
+    "2. Models/Machine Learn Models.md",
+    "LLaMA.md",
+    "2. Models/Natural Language Processing.md",
+    "3. Training concepts/Training Models.md",
+    "2. Models/Linear Regression.md",
+    "4. Training models/Fine-Tuning a model for specific task.md",
+    "4. Training models",
+    "3. Training concepts",
+    "2. Models/Concepts",
+    "2. Models/Training",
+    "2. Models/parameters.md",
+    "1. The basics/Machine Learning VS Human Learning.md",
+    "5. Open Source Projects",
+    "attachments",
     "2. Models",
     "Linear Regression Mode.md",
     "1. The basics",
